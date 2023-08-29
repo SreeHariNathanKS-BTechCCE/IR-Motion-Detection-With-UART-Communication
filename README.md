@@ -5,10 +5,12 @@ provide a visual indication of the detected motion.
 2. Notify "Motion Detected" message: In addition to the LED blinking, a notification or a message such as
 "Motion Detected" will be sent to provide an alert about the presence of motion.
 Inference:
+
 The system successfully detects motion, provides real-time feedback through UART communication, and
 controls an LED for visual indication. The project showcases the versatility and processing power of the MSP432
 microcontroller and its potential for various applications in security, automation, and occupancy monitoring.
 Conclusion:
+
 In conclusion, the motion detection system implemented with a IR sensor and MSP432 microcontroller provides
 a reliable and efficient solution for detecting motion in a given environment. The IR sensor detects changes in
 infrared radiation caused by motion, allowing the system to identify the presence of a moving object.
